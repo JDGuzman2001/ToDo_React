@@ -13,6 +13,4 @@ Una aplicación de lista de tareas hecha con React.js donde puedes añadir nueva
 - [React.js](https://reactjs.org/) - Una biblioteca de JavaScript para construir interfaces de usuario.
 - [Create React App](https://create-react-app.dev/) - Herramienta para crear aplicaciones de React con configuración predefinida.
 
-## Instalación
 
-Sigue estos pasos para instalar y ejecutar el proyecto en tu máquina local:
