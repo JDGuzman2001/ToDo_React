@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ToDo_React/static/css/main.bb188b88.css",
+    "main.js": "/ToDo_React/static/js/main.132a3bd4.js",
+    "index.html": "/ToDo_React/index.html",
+    "static/media/delete.svg": "/ToDo_React/static/media/delete.7018c4465589031bd51c8efbe21df9ca.svg",
+    "static/media/check.svg": "/ToDo_React/static/media/check.e9a948bba52a34123d2ed7aeda0ea495.svg",
+    "main.bb188b88.css.map": "/ToDo_React/static/css/main.bb188b88.css.map",
+    "main.132a3bd4.js.map": "/ToDo_React/static/js/main.132a3bd4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bb188b88.css",
+    "static/js/main.132a3bd4.js"
+  ]
+}
